@@ -1,13 +1,16 @@
-# plant-watering-system
+# plant-watering-system V1
 ### Parts
-- Arduino
+- Arduino due
 - Bread Board
-- Power Supply
-- DC Motor Driver (version dependent)
-- Peristaltic Pump
+- 12v 5A Power Supply
+- L298N Motor Driver
+  - <img src="https://images-na.ssl-images-amazon.com/images/I/61hx2csodiL.__AC_SX300_SY300_QL70_ML2_.jpg" width=200/>
+- Gikfun 12V DC Peristaltic Dosing Pump
+  - <img src="https://m.media-amazon.com/images/I/61j4svcUxML._AC_SL1500_.jpg" width=200/>
 - LCD Display
 - Potentiometer
-- Moisture Sensor
+- Capacitive Soil Moisture Sensor Module V1.2
+  - <img src="https://cdn.shopify.com/s/files/1/0535/6804/5236/products/cs111.jpg?v=1636143322" width=200/>
 - Tubing
 - Tube Fittings
 
