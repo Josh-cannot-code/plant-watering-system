@@ -18,7 +18,7 @@
 This is a system is designed to hold constant soil moisture for a plant. 
 
 ### Schematic
-//TODO
+<img src="schematic_bb.png" width=400/>
 
 ### Pictures
 //TODO
