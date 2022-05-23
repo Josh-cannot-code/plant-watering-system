@@ -1,4 +1,7 @@
 # plant-watering-system V1
+### Description
+This is a system is designed to hold constant soil moisture for a plant. A moisture sensor is placed in the soil and sends the moisture value back to the arduino. If the moisture level drops below a threshold, the peristaltic pump is turned on watering the plant. 
+
 ### Parts
 - Arduino due
 - Bread Board
@@ -14,11 +17,12 @@
 - Tubing
 - Tube Fittings
 
-### Description
-This is a system is designed to hold constant soil moisture for a plant. 
-
 ### Schematic
-<img src="schematic_bb.png" width=400/>
+<img src="images/schematic_bb.png" width=400/>
 
 ### Pictures
-//TODO
+<img src="images/LCD.jpg" width=400/>
+<img src="images/system.jpg" width=400/>
+<img src="images/plant.jpg" width=400/>
+<img src="images/full.jpg" width=400/>
+<img src="images/reservoir.jpg" width=400/>
