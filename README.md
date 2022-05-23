@@ -1,3 +1,21 @@
 # plant-watering-system
 ### Versions
-- [V1](/V1)
+- #### [V1](/V1) (current iteration)
+  - Basic moisture level control
+  - Adjustable goal moisture level
+  - LCD display
+  - Single power source
+- #### V2 (future plans)
+  - OLED display
+  - Better moisture sensor
+  - More efficient motor driver
+  - Wifi
+  - Case
+  - disconnectable power supply
+  - Sleep mode
+  - Continuous rotating moisture level control (clickable)
+  - Reservoir sensor
+  - Safety shutoff
+  - Unit tests for code
+  - Conduit tubing
+  - PCB?
